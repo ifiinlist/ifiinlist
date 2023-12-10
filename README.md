@@ -11,4 +11,4 @@ I'm a newbie trying to self learn web application development.
 ![ifiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifiinlist&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifiinlist&layout=compact&theme=tokyonight)
 
 # Pins
-[![Dotfiles repo](https://github-readme-stats.vercel.app/api/pin/?username=ifiinlist&repo=dotfiles)](https://github.com/ifiinlist/dotfiles)
+[![Dotfiles repo](https://github-readme-stats.vercel.app/api/pin/?username=ifiinlist&repo=dotfiles&theme=tokyonight)](https://github.com/ifiinlist/dotfiles)
