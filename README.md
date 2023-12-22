@@ -3,6 +3,7 @@ I'm Ifiin, a newbie trying to self learn web application development.
 
 # Contact me
 - Fediverse: [Mastodon](https://mastodon.social/@ifiinlist)
+- Twitch: [Ifiinlist](https://twitch.tv/ifiinlist)
 - IRC: ifiin on libera.chat
 
 ---
