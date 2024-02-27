@@ -7,4 +7,5 @@ This profile only exists for me to contribute to open source projects.
 
 - [Fediverse](https://mastodon.social/@ifiinlist)
 - [Twitch](https://twitch.tv/ifiinlist)
+- [YouTube](https://youtube.com/@ifiinlist)
 - [IRC] ifiin at irc.libera.chat
